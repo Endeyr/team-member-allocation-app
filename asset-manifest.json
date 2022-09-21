@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/team-member-allocation-app/static/css/main.005724fd.css",
+    "main.js": "/team-member-allocation-app/static/js/main.c89a2b52.js",
+    "static/js/496.fe153a98.chunk.js": "/team-member-allocation-app/static/js/496.fe153a98.chunk.js",
+    "static/media/maleProfile.jpg": "/team-member-allocation-app/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "static/media/femaleProfile.jpg": "/team-member-allocation-app/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
+    "index.html": "/team-member-allocation-app/index.html",
+    "main.005724fd.css.map": "/team-member-allocation-app/static/css/main.005724fd.css.map",
+    "main.c89a2b52.js.map": "/team-member-allocation-app/static/js/main.c89a2b52.js.map",
+    "496.fe153a98.chunk.js.map": "/team-member-allocation-app/static/js/496.fe153a98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005724fd.css",
+    "static/js/main.c89a2b52.js"
+  ]
+}
